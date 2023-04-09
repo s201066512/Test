@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Aiden
- *
- */
-module ServerTest {
-}
